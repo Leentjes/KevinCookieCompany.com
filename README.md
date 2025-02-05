@@ -11,4 +11,6 @@ This repository was created as part of a learning project to practice using **Gi
 - Managing files, branches, and issues
 - Working with pull requests
 
+## Example using Gitbash
 
+<img src="https://github.com/user-attachments/assets/bd3d806d-61fc-4ce2-959b-6afdce0b561f" width="450"/>
